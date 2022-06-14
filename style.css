@@ -1,0 +1,32 @@
+p {
+    color: red;
+}
+
+ul {
+    color: blue;
+}
+
+ol {
+    color: green;
+}
+
+h4 {
+    background-color: pink;
+    color: white;
+}
+
+.recipetitle {
+    font-size: 40px;
+    font-weight: 700;
+    color: yellow;
+    background-color: black;
+}
+
+.webpagetitle {
+    background-color: aqua;
+}
+
+.uniformphoto {
+    height: auto;
+    width: 200px;
+}
